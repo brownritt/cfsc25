@@ -13,9 +13,9 @@ This exercise summarizes the interfaces and file system concepts discussed today
 - Include the following code to print the content of your file:
 ```
 with f as open(FILEPATH):
-    lines_all f.readlines()
+    lines_all = f.readlines()
     for line in lines_all:
-        print(line) 
+        print(line)
 ```
 - Run it and see if it works
 
