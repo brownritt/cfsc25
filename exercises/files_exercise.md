@@ -12,7 +12,7 @@ This exercise summarizes the interfaces and file system concepts discussed today
 - Use it to define a path to your text file (hint, try `os.path.join`) in the variable `FILEPATH`
 - Include the following code to print the content of your file:
 ```
-with f as open(FILEPATH):
+with open(FILEPATH, 'r') as f:
     lines_all = f.readlines()
     for line in lines_all:
         print(line)
