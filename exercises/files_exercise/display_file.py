@@ -2,7 +2,7 @@
 #   Jason Ritt, Brown University
 #
 # Answer to File Handling Exercise:
-#   https://github.com/brownritt/cfsc25/blob/main/exercises/files_exercise.md
+#   https://github.com/brownritt/cfsc25/blob/main/exercises/files_exercise/files_exercise.md
 #
 # Part of the Computational Fluency Short Course 2025, in the Carney Institute for 
 # Brain Science at Brown University.
