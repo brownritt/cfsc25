@@ -4,7 +4,7 @@ Computational Fluency Short Course for Carney Summer Scholars, 2025
 
 Materials for the Carney Institute's 2025 Computational Fluency Short Course. Much of the course content consists of hands-on exercises, in some cases using code in other repos. This repo contains lecture and reference information, updated throughout the course.
 
-### Links
+### Course materials
 
 - Lecture slides
   - [Introduction](lectures/CFSC_2025_Intro_handout.pdf)
@@ -19,6 +19,9 @@ Materials for the Carney Institute's 2025 Computational Fluency Short Course. Mu
   - [Virtual environments](reference/Virtual_environments.md)
   - [Git basics](reference/Git_basics.md)
   - [GitHub enabled projects](reference/GitHub_enabled_projects.md)
+
+### External links
+
 - High performance computing
   - [Oscar documentation](https://docs.ccv.brown.edu/oscar) from Brown's [Center for Computation and Visualization](https://ccv.brown.edu)
   - Direct link to Oscar's [Open On Demand](https://ood.ccv.brown.edu/) service
