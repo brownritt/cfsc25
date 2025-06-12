@@ -29,7 +29,7 @@ Materials for the Carney Institute's 2025 Computational Fluency Short Course. Mu
 - Git resources
   - The [Pro Git Book](https://git-scm.com/book/en/v2/)
   - A short blog on how to [undo git commits](https://justcode.me/git/undo-git-commits/)
-
+- Patrick Mineault's [Good Research Code Handbook](https://goodresearch.dev)
 
 ### Installation
 
