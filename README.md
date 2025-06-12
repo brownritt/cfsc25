@@ -12,6 +12,7 @@ Materials for the Carney Institute's 2025 Computational Fluency Short Course. Mu
   - [Filesystems](lectures/CFSC_2025_Filesystems_handout.pdf)
   - [Environments](lectures/CFSC_2025_Environments_handout.pdf)
   - [Version Control](lectures/CFSC_2025_VersionControl_handout.pdf)
+  - [Making Code](lectures/CFSC_2025_MakingCode_handout.pdf)
 - Short notes for reference
   - [Installation notes](reference/Installation_notes.md)
   - [Shell command basics](reference/Shell_command_basics.md)
@@ -19,6 +20,10 @@ Materials for the Carney Institute's 2025 Computational Fluency Short Course. Mu
   - [Virtual environments](reference/Virtual_environments.md)
   - [Git basics](reference/Git_basics.md)
   - [GitHub enabled projects](reference/GitHub_enabled_projects.md)
+- Exercises
+  - [Files](exercises/files_exercise)
+  - [Python imports](exercises/import_exercise)
+  - [Troubleshooting](https://github.com/brownritt/cfsc25-debug-exercise)
 
 ### External links
 
