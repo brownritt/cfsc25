@@ -20,6 +20,9 @@ Materials for the Carney Institute's 2025 Computational Fluency Short Course. Mu
   - [Virtual environments](reference/Virtual_environments.md)
   - [Git basics](reference/Git_basics.md)
   - [GitHub enabled projects](reference/GitHub_enabled_projects.md)
+  - [Data types](reference/Data_types.md)
+  - [Directory and file organization](reference/Directory_and_file_organization.md) best practices
+  - Checklist for [starting a project](reference/Project_start_checklist.md)
 - Exercises
   - [Files](exercises/files_exercise)
   - [Python imports](exercises/import_exercise)
